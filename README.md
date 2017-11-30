@@ -13,6 +13,10 @@ Recuerden que la carpeta /vendor no está subida en este repositorio, por lo cua
 
 Este repo cuenta con un pequeño contrato/especificación de RAML, apicontract.yaml donde pueden ver el diseño de la API que propusimos para el workshop
 
+### PPT del workshop
+Aquí les dejo el link del ppt que utilizamos para el workshop
+https://docs.google.com/presentation/d/1CvK44kqITbZpu_wpuBzHoZbdJ6G784yR3PKCtb_k_44/edit?usp=sharing
+
 ### Contactame
 
 Si te resultó interesante la charla, o el workshop y querés hacerme consultas, podés ubicarme en los siguientes canales
